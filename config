@@ -1,0 +1,4 @@
+Host ttm4133
+	User ubuntu
+	Hostname 10.212.143.138
+	Identityfile ~/school/ttm4133/keypair2.pem
